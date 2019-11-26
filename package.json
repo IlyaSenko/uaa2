@@ -8,9 +8,10 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "keywords": [],
+  "homepage": "https://ilyasenko.github.io/uaa",
   "author": "",
   "license": "ISC"
 }
